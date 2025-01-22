@@ -2,4 +2,4 @@
 
 Brace Expansion
 
-![Alt text](Lab2/image.png)
+![Alt text](./Lab2/image.png)
