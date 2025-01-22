@@ -6,4 +6,10 @@ Brace Expansion
 
 echo file{A,B,C}
 
-![Alt text](Lab2/1.png)
+![Alt text](Lab2/2.png)
+
+Sequence Expansion
+
+echo file{1..10}.txt {start..stop}
+
+![Alt text](Lab2/3.png)
