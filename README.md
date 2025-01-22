@@ -18,6 +18,10 @@ echo file{1..10..2}.txt
 
 ![Alt text](Lab2/4.png)
 
-man tune2fs 
+1) COMMAND --> man tune2fs 
 
 ![Alt text](Lab2/5.png)
+
+2)COMMAND --> man -k ext4 
+
+![Alt text](Lab2/6.png)
