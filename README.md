@@ -3,3 +3,7 @@
 Brace Expansion
 
 ![Alt text](Lab2/1.png)
+
+echo file{A,B,C}
+
+![Alt text](Lab2/1.png)
