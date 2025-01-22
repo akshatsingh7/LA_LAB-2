@@ -13,3 +13,7 @@ Sequence Expansion
 echo file{1..10}.txt {start..stop}
 
 ![Alt text](Lab2/3.png)
+
+echo file{1..10..2}.txt
+
+![Alt text](Lab2/4.png)
