@@ -17,3 +17,7 @@ echo file{1..10}.txt {start..stop}
 echo file{1..10..2}.txt
 
 ![Alt text](Lab2/4.png)
+
+man tune2fs 
+
+![Alt text](Lab2/5.png)
